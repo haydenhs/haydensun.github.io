@@ -12,6 +12,7 @@ To find more detailed information about my projects, visit my own [project websi
 Send me an email hayden.sun@yahoo.com
 
 # Publications
+```
 @article{jiang2020learning,
  author={J. {Jiang} and H. {Sun} and X. {Liu} and J. {Ma}}, 
  journal={IEEE Transactions on Computational Imaging}, 
@@ -20,4 +21,5 @@ Send me an email hayden.sun@yahoo.com
  volume={6}, 
  number={}, 
  pages={1082-1096},}
+```
 
