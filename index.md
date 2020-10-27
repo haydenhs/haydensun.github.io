@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# About Me
+Hello, I'm hayden, a graduate student major in computer science at Harbin Institue of Techonology, Harbin, China.
 
-You can use the [editor on GitHub](https://github.com/haydenhs/haydensun.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+For now, my reserach mainly focuses on image restoration and image enhancement. I'm enthusiastic about designing algorithms related to above tasks via deep learning and optimization-based methods.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prior to that, I got a B.E. in mechatronics from Harbin Institute of Technology. My graduation thesis is about [tensegrity structure](https://en.wikipedia.org/wiki/Tensegrity) and its application on soft robotics.
 
-### Markdown
+To find more detailed information about my projects, visit my own [project website](https://quartetweb.wordpress.com/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Contact Me
 
-```markdown
-Syntax highlighted code block
+Send me an email hayden.sun@yahoo.com
 
-# Header 1
-## Header 2
-### Header 3
+# Publications
+@article{jiang2020learning,
+ author={J. {Jiang} and H. {Sun} and X. {Liu} and J. {Ma}}, 
+ journal={IEEE Transactions on Computational Imaging}, 
+ title={Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery}, 
+ year={2020}, 
+ volume={6}, 
+ number={}, 
+ pages={1082-1096},}
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haydenhs/haydensun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
