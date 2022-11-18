@@ -28,12 +28,7 @@ Send me an email: hayden.sun@yahoo.com
    A master thesis project.
    </p>
    <p>
-   [Coming soon]
-   <!--
-   <a href="https://victoriahy.github.io/FashionDesignTransfer/">[Project]</a>
-   <a href="https://arxiv.org/abs/2008.01023">[Paper]</a>
-   <a href="https://arxiv.org/abs/2008.01023">[Code]</a>
-   -->
+   <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202201&filename=1021901980.nh&uniplatform=NZKPT&v=_51FfsNBPS5TeMNWYVVzgqophntBsQGRVAxtg3vICwBER8WFD7KYoLBdWdBHdq_u">[CNKI (Chinese)]</a>
    </p>
    </div>
    </td>
@@ -58,8 +53,9 @@ Send me an email: hayden.sun@yahoo.com
    </p>
    <p>
    <a href="https://haydenhs.github.io/HyperSR/">[Project]</a>
-   <a href="https://link.springer.com/chapter/10.1007/978-981-15-3341-9_5">[Paper(old version)]</a>
+   <a href="https://link.springer.com/chapter/10.1007/978-981-15-3341-9_5">[Paper (old version)]</a>
    <a href="https://github.com/haydenhs/HyperSR">[Code]</a>
+   <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202201&filename=1021901980.nh&uniplatform=NZKPT&v=_51FfsNBPS5TeMNWYVVzgqophntBsQGRVAxtg3vICwBER8WFD7KYoLBdWdBHdq_u">[CNKI (Chinese)]</a>
    </p>
    </div>
    </td>
