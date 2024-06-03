@@ -1,14 +1,14 @@
-# About Me
-Hello, I'm hayden, a graduate student major in computer science at Harbin Institue of Techonology, Harbin, China.
+# About me
+Hi, I'm Hayden and I'm currently working as a GPU software engineer in Shanghai.
 
-Prior to that, I got a B.E. in mechatronics from Harbin Institute of Technology. My graduation thesis is about [tensegrity structure](https://en.wikipedia.org/wiki/Tensegrity) and its application on soft robotics.
+Prior to that, I got my M.Eng. in computer science and B.Eng. in mechatronics both from Harbin Institute of Technology. Please refer to the Projects for more detailed info. 
 
-My main reseach focus are image restoration and image enhancement tasks. Besides, I'm interested in repetitive & fractal patterns, textures and structures.
+During previous study, my main focus are among image/video restoration, enhancement and perception and control. Besides, I'm also interested in repetitive & fractal patterns, textures and structures.
 
 
-# Contact Me
+# How to reach me
 
-Send me an email: hayden.sun@yahoo.com
+Send me an email: <mark>hayden.sun@yahoo.com</mark>
 
 # Projects
 
@@ -25,7 +25,7 @@ Send me an email: hayden.sun@yahoo.com
    Fast Hyperspectral Image Sharpening via Learned Affine Transform
    </p>
    <p>
-   A master thesis project.
+   <i>Fast LUT-based method in image fusion.</i>
    </p>
    <p>
    <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202201&filename=1021901980.nh&uniplatform=NZKPT&v=_51FfsNBPS5TeMNWYVVzgqophntBsQGRVAxtg3vICwBER8WFD7KYoLBdWdBHdq_u">[CNKI (Chinese)]</a>
@@ -49,7 +49,7 @@ Send me an email: hayden.sun@yahoo.com
    Hyperspectral Image Super-resolution using Pyramid Method
    </p>
    <p>
-   A master thesis project.
+   <i>"Utilizing Gaussian pyramid in DL-based image super-resolution."</i>
    </p>
    <p>
    <a href="https://haydenhs.github.io/HyperSR/">[Project]</a>
@@ -72,10 +72,10 @@ Send me an email: hayden.sun@yahoo.com
   <td style="width: 70%;">
   <div class="" >
   <p style="font-size: 14pt; color: black">
-   Locomotion simulation and control for a 6-bar spherical tensegrity robot
+   Locomotion Simulation and Control for a 6-bar Spherical Tensegrity Robot
    </p>
    <p>
-   Undergraduate lab project.
+   <i>"Crossroad for structure design and engineering."</i>
    </p>
    <p>
    <a href="https://haydenhs.github.io/NTRTsim/">[Project]</a>
