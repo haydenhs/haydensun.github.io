@@ -28,6 +28,8 @@ Send me an email: <mark>hayden.sun@yahoo.com</mark>
    <i>Fast LUT-based method in image fusion.</i>
    </p>
    <p>
+   <a href="https://haydenhs.github.io/FHSIS/">[Project]</a>
+   <a href="https://github.com/haydenhs/FHSIS">[Code]</a>
    <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202201&filename=1021901980.nh&uniplatform=NZKPT&v=_51FfsNBPS5TeMNWYVVzgqophntBsQGRVAxtg3vICwBER8WFD7KYoLBdWdBHdq_u">[CNKI (Chinese)]</a>
    </p>
    </div>
