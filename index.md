@@ -16,7 +16,7 @@ Send me an email: <mark>hayden.sun@yahoo.com</mark>
 <tr>
 <td style="width: 30%">
   <div class="teaser">
-  <img src="projs/FHSIS_teaser.png" style="width: 100%">
+  <img src="projs/FHSIS_teaser.png" style="width: 90%">
   </div>
   </td>
   <td style="width: 70%;">
@@ -25,7 +25,7 @@ Send me an email: <mark>hayden.sun@yahoo.com</mark>
    Fast Hyperspectral Image Sharpening via Learned Affine Transform
    </p>
    <p>
-   <i>Fast LUT-based method in image fusion.</i>
+   <i>"Fast LUT-based method in image fusion."</i>
    </p>
    <p>
    <a href="https://haydenhs.github.io/FHSIS/">[Project]</a>
@@ -81,7 +81,7 @@ Send me an email: <mark>hayden.sun@yahoo.com</mark>
    </p>
    <p>
    <a href="https://haydenhs.github.io/NTRTsim/">[Project]</a>
-   <a href="https://www.youtube.com/watch?v=bPanVJEUQm8&feature=youtu.be">[Demo]</a>
+   <a href="https://www.youtube.com/watch?v=bPanVJEUQm8&feature=youtu.be">[Demo video]</a>
    </p>
    </div>
    </td>
